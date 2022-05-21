@@ -1,1 +1,1 @@
-# Wireframe 01
+# First static webpage with HTML and CSS only
